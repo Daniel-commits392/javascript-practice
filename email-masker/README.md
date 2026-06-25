@@ -29,3 +29,5 @@ Tests:
     Waiting: 8. maskEmail("user@domain.org") should return "u**r@domain.org".
     Waiting: 9. Your maskEmail should produce the correct result.
     Waiting: 10. You should log the output of calling maskEmail with email as argument.
+
+    Also ive added two more codes , one that masks the phone number which is on phonemasker.js and the other one masks the username which is on username.js
